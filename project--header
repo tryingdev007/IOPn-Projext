@@ -1,1 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Document</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Fontdiner+Swanky&family=Kapakana:wght@400&family=Kaushan+Script&family=Noto+Serif:wght@400;700&family=Roboto:wght@400;700&family=Shadows+Into+Light&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header class="navbar">
+            <div class="logo">
+        <img src="test/iopn.png" alt="iopn"><span class="logo-text">Bilding in IOPn </span>
+    </div>
+
+<nav>
+  <a href="#" class="drop">Airdrops<span class="badge badge-hot">HOT</span></a>
+   <a href="#">Learn<span class="badge badge-new">NEW</span></a>
+    <a href="#">About</a>
+    <a href="#">Telegram <span class="badge badge-live">LIVE</span></a>
+    </nav>
+
+    <button id="connect-wallet-btn" class="btn-grad">
+  <img src="test/icons8-wallet-50.png" alt="Wallet png" class="btn-icon">
+  Connect Wallet
+</button>
+  </header>
 
